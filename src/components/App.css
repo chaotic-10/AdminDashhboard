@@ -1,0 +1,89 @@
+.App {
+  margin: 20px;
+}
+
+.search-bar {
+  width: calc(70% - 5px); 
+  padding: 10px;
+  margin-right: 5px; 
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: inline-block;
+}
+
+.delete-button {
+  width: calc(30% - 5px); 
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: inline-block;
+  float: right;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+.table th,
+.table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.table th {
+  background-color: #ddd;
+}
+
+.table tr.selected-row {
+  background-color: #c7c7c7;
+}
+
+.btn {
+  cursor: pointer;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.selected-rows {
+  font-weight: bold;
+}
+
+.pagination {
+  display: flex;
+  gap: 5px;
+}
+
+.pagination button {
+  cursor: pointer;
+}
+.delete-button {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: inline-block;
+  float: right;
+  margin-left: auto; 
+}
+
+
+.search-bar {
+  width: calc(100% - 240px); 
+  padding: 10px;
+  margin-right: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: inline-block;
+}
