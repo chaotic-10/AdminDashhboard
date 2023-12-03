@@ -1,0 +1,62 @@
+/* table.css */
+/* 
+.table-container {
+    margin-top: 20px;
+  }
+  
+  .table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    background: #f2f2f2;
+  }
+  
+  .td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .edit-button {
+    margin-left: 5px;
+  }
+  
+  .delete-button {
+    margin-left: 5px;
+    color: red;
+  }
+  
+  .pagination {
+    margin-top: 20px;
+  }
+  
+
+
+.td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .edit-button {
+    margin-left: 5px;
+  }
+  
+  .delete-button {
+    margin-left: 5px;
+    color: red;
+  }
+   */
+   .search-bar {
+    width: 40%;
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
